@@ -1,0 +1,13 @@
+{
+  "name": "class-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs_readFileSync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fs_readFileSync.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

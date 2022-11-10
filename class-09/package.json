@@ -1,0 +1,13 @@
+{
+  "name": "class-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs_exists.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fs_exists.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

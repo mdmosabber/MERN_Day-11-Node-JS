@@ -1,0 +1,13 @@
+{
+  "name": "class-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs_readFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fs_readFile.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
